@@ -1,12 +1,12 @@
 # projects
 This repository contains information on waterhackweek projects.
 
-| Project Name | slack channel |
+| Project Name | slack channel | Hydroshare |
 |:------|:-----------|
 | [geo-spatial-temporal analysis using open source software](https://github.com/geohackweek/gwh2018_landlab) | [\#landlab](https://geohackweek2018.slack.com/messages/landlab) | 
 | [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |
-| [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell |  |
-| [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) |  [\#snowmelt](https://geohackweek2018.slack.com/messages/snowmelt/) |
+| [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  |
+| [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |
 
 More coming soon in 2019!
 
