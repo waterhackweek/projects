@@ -5,6 +5,7 @@ This repository contains information on waterhackweek projects.
 |:------|:-----------|
 | [geo-spatial-temporal analysis using open source software](https://github.com/geohackweek/gwh2018_landlab) | [\#landlab](https://geohackweek2018.slack.com/messages/landlab) | 
 | [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |
+| [Topographic influences on snow melt in a warming world](https://github.com/geohackweek/ghw2018_snowmelt) |  [\#snowmelt](https://geohackweek2018.slack.com/messages/snowmelt/) |
 More coming soon in 2019!
 
 # Purpose of the projects:
