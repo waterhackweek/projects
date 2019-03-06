@@ -1,5 +1,5 @@
 # projects
-This repository contains information on waterhackweek projects.
+This repository contains information on waterhackweek projects.  Please read more about [Project Guidelines](https://waterhackweek.github.io/wiki/project_guidelines.html) and [Project management](https://waterhackweek.github.io/wiki/github_project_management.html) on the Waterhackweek Wiki.  
 
 | Project Name | slack channel | Hydroshare |
 |:------|:-----------|:-----------|
