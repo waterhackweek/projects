@@ -8,6 +8,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 | [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |  |
 | [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  |
 | [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |  |
+|[Snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|||
 
 More coming soon in 2019!
 
