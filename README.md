@@ -10,6 +10,8 @@ This repository contains information on waterhackweek projects.  Please read mor
 | [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |  |
 |[Snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|||
 
+|[Understanding Andean Amazon Hydrology](https://github.com/waterhackweek/AndeanAmazonHydro) | [TBD] | [TBD] |
+
 More coming soon in 2019!
 
 # Purpose of the projects:
