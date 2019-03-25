@@ -9,7 +9,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 | [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  | | |
 | [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |  | | |
 |[Snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)||
-|[Understanding Andean Amazon Hydrology](https://github.com/waterhackweek/AndeanAmazonHydro) | [TBD] | [TBD] |  | |
+|[Understanding the diversity of hydrological regimes in the Andean Amazon region](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro) | [#andeanamazonhydro](https://waterhackweek2019.slack.com/messages/CGZP08WHX) | [TBD] | Yesica Leon-Tinoco | Guido A. Herrera-R |
 
 More coming soon in 2019!
 
