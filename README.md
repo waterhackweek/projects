@@ -2,7 +2,7 @@
 This repository contains information on waterhackweek projects.  Please read more about [Project Guidelines](https://waterhackweek.github.io/wiki/project_guidelines.html) and [Project management](https://waterhackweek.github.io/wiki/github_project_management.html) on the Waterhackweek Wiki.  
 
 | Project Name | slack channel | Hydroshare | Data Science Lead | Project Lead |
-|:------|:-----------|:-----------|
+|:------|:-----------|:-----------|:------------|:----------|
 |[Mapping Groundwater Contaminants](https://github.com/waterhackweek/whw2019_Mapping_Groundwater_Contaminants.git) | [#map_gw_contaminants](https://waterhackweek2019.slack.com/messages/CH428D9RU) | [TBD] | | |
 | [geo-spatial-temporal analysis using open source software](https://github.com/geohackweek/gwh2018_landlab) | [\#landlab](https://geohackweek2018.slack.com/messages/landlab) |  | | |
 | [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |  | | |
