@@ -5,8 +5,6 @@ This repository contains information on waterhackweek projects.  Please read mor
 |:------|:--------|:---------|:------------|:----------|
 |[Mapping Groundwater Contaminants](https://github.com/waterhackweek/whw2019_Mapping_Groundwater_Contaminants.git) | [#map_gw_contaminants](https://waterhackweek2019.slack.com/messages/CH428D9RU) | [TBD] | Rohit Khattar| Katya Cherukumilli |
 | [Studying the influence of climate on woody plant encroachment in semiarid areas of Western US](https://github.com/waterhackweek/whw19_landlab_ecohydrology) | [\#landlab_ecohydrology](https://waterhackweek2019.slack.com/messages/CHAE3BJ9M) |  | Sai Nudurupati | Erkan Istanbulluoglu |
-| [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |  | | |
-|[Snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)||
 |[Understanding the diversity of hydrological regimes in the Andean Amazon region](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro) | [#andeanamazonhydro](https://waterhackweek2019.slack.com/messages/CGZP08WHX) | [TBD] | Yesica Leon-Tinoco | Guido A. Herrera-R |
 |[whw2019_northern-lakes](https://github.com/waterhackweek/whw2019_northern-lakes) | [#northern_lakes](https://waterhackweek2019.slack.com/messages/CHATJ7X2S) | [TBD] | | |
 |[whw2019_snow_modeling](https://github.com/waterhackweek/whw2019_snow_modeling)|[#snow_modeling](https://waterhackweek2019.slack.com/messages/CH9CULM2Q)|||Andrew Bennett|
@@ -20,6 +18,8 @@ More coming soon in 2019!
 |:------|:--------|:---------|:------------|:----------|
 | [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  | | |
 | [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |  | | |
+| [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |  | | |
+|[Snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)||
 
 # Purpose of the projects:
 During Waterhackweek we will be facilitating open hacking sessions most of the afternoons. The purpose of these sessions is for you to gain hands-on experience in working together on a well-defined problem related to geospatial sciences.
