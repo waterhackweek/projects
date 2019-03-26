@@ -69,7 +69,7 @@ each team will identify a:
     * Facilitate team changes
     * Technology Dam breaker: in a kind non-life threatening manner - what library or tool can this team use they may not know about?
 
-#Team Participants
+## Team Participants
 
 * Innovation is unpredictable!  Sensitive subject matter and personal physical boundaries may become an issue so find a process with your team to check-in regularly to address any issues to be aware of as a group.  If you find that you are not feel comfortable sharing with the Team, please reach out privately to discuss with an organizer or other instructor.   
 * Be supportive!  Learning software and personal growth both require vulnerability and a safe space.  If anyone displays negative attitudes, judgments or insensitivity, we want to authentically address it.  If there are concerns outside of the scope you are comfortable addressing, speak with another leader about it or please contact Christina.  
