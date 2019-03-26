@@ -1,7 +1,7 @@
 # Projects
 This repository contains information on waterhackweek projects.  Please read more about [Project Guidelines](https://waterhackweek.github.io/wiki/project_guidelines.html) and [Project management](https://waterhackweek.github.io/wiki/github_project_management.html) on the Waterhackweek Wiki.  
 
-## Project Tools/Roles/Location
+## Project Checkpoints
 
 |Project Name | Github Repo | slack channel | Hydroshare |
 |:--------|:------|:--------|:---------|
@@ -14,10 +14,10 @@ This repository contains information on waterhackweek projects.  Please read mor
 ||[meteo_forcing_wrfhydro](https://github.com/waterhackweek/meteo_forcing_wrfhydro)|[#meteo_wrfhydro](https://waterhackweek2019.slack.com/messages/CH9CXURB6)| |
 ||[whw2019_extremeH2O](https://github.com/waterhackweek/whw2019_extremeH2O)|[#extremeh20](https://waterhackweek2019.slack.com/messages/CH9D4KYBE)| |
 
-## Project 
+## Project Tools/Roles/Location
 
 |Project Name |Data Science Tools|Data Science Lead|Project Lead|Location|
-|:--------|:------|:--------|:---------|
+|:--------|:------|:--------|:--------|:---------|
 |Water Mesh||Jim Phuong| Taina Rodriguez Curet ||
 |Mapping Groundwater Contaminants|| Rohit Khattar| Katya Cherukumilli ||
 |Studying the influence of climate on woody plant encroachment in semiarid areas of Western US || Sai Nudurupati | Erkan Istanbulluoglu ||
