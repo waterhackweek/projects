@@ -11,7 +11,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Understanding the diversity of hydrological regimes in the Andean Amazon region|[whw2019_AndeanAmazonHydro](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro) | [#andeanamazonhydro](https://waterhackweek2019.slack.com/messages/CGZP08WHX) | [TBD] | 
 ||[whw2019_northern-lakes](https://github.com/waterhackweek/whw2019_northern-lakes) | [#northern_lakes](https://waterhackweek2019.slack.com/messages/CHATJ7X2S) | [TBD] |
 ||[whw2019_snow_modeling](https://github.com/waterhackweek/whw2019_snow_modeling)|[#snow_modeling](https://waterhackweek2019.slack.com/messages/CH9CULM2Q)| |
-||[whw2019_snowmelt](https://github.com/waterhackweek/whw2019_snowmelt|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)| |
+||[whw2019_snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)| |
 ||[meteo_forcing_wrfhydro](https://github.com/waterhackweek/meteo_forcing_wrfhydro)|[#meteo_wrfhydro](https://waterhackweek2019.slack.com/messages/CH9CXURB6)| |
 ||[whw2019_extremeH2O](https://github.com/waterhackweek/whw2019_extremeH2O)|[#extremeh20](https://waterhackweek2019.slack.com/messages/CH9D4KYBE)| |
 
