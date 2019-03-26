@@ -82,6 +82,21 @@ once formed, each team will be guided through exercises to help narrow in on a s
 ## What can I do to prepare in advance?
 if you have a project idea already brewing, we encourage you to share that with the team on our general Slack channel. We can add additional channels as the project ideas develop. Reel free to explore various projects and initiate conversations. The goal is to gather as much information as you can to inform your decision about which team to join when we meet in person.  Contact a waterhack organizer if you would like assistance in assessing whether a project is well-scoped, or if you need help with a particular dataset. 
 
+## Where can I find help ?
+
+# Instructor Tables
+
+# Instructor Bios
+
+# Project Help-Desk Data Scientists
+
+By definition, anything could happen in a hackweek project! If you want it to happen faster, ask us for help. If you want help avoiding a downturn in productivity, teamwork, or creativity, we can help come up with ideas and solutions.
+
+* Jacob Deppen - support data scientists, project scientists, instructors and organizers. 
+* Madhavi Srinivasan- support participants, especially new code contributors on Github and Jupyter Notebooks
+* Nicoleta Cristea - support on tutorials and almost every other question
+* Christina Bandaragoda- celebrating surprises, wins and collecting data on what works; also, handles anything that is not working (questionable behavior, awkward situations, or code of conduct violations).
+
 # Project guidelines
 Each project requires a brief project summary in the readme.md of each GitHub project folder. Below is a template for the project summary. You can visit the project folder on the geohack GitHub page to see existing examples.
 
