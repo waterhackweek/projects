@@ -50,7 +50,14 @@ Increasingly, research and software development is being conducted across groups
 on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
 each team will identify:
 ## project lead
-...likely the person who pitched the idea, who has knowledge of the datasets and the specific problem to be explored
+* Coordinate team in the direction of the research question pitch.  Data, code, and tools originally proposed may change.   Avoid dispensing and coordinating tasks.  
+* Everyone should code something or get their hands on the data in their way.  
+* The project scientist makes sure that their team all meet their individual goals, and that the team evolves.
+* Pitch project.  Interact with all interested participants during networking. Coordinate team building with other instructors to an optimal size of 4-7 total participants.  
+* Populate original GIthub project repository and readme following the Project Guidelines. 
+* Coordinate with 1-2 Data Scientists to support your team, especially Github workflows that work for everyone to be able to contribute code. 
+* Manage data.  Be sure you have permission and consent to use data you share in the project.  Follow professional standards while using data for training that may be used in  future publications.  Here is a good resource on publication of data and consent ethics. 
+
 ## data science lead 
 ... from the pool of waterhack instructors who has expertise in the data tools and methods
 
