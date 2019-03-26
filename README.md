@@ -15,7 +15,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 
 |Project Name |Data Science Lead|Project Lead|Location|
 |:--------|:------|:--------|:---------|
-||Jim Phuong| Taina Rodriguez Curet ||
+|Water Mesh|Jim Phuong| Taina Rodriguez Curet ||
 |Mapping Groundwater Contaminants| Rohit Khattar| Katya Cherukumilli ||
 |Studying the influence of climate on woody plant encroachment in semiarid areas of Western US | Sai Nudurupati | Erkan Istanbulluoglu ||
 |Understanding the diversity of hydrological regimes in the Andean Amazon region|Yesica Leon-Tinoco | Guido A. Herrera-R ||
