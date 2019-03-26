@@ -69,6 +69,13 @@ each team will identify a:
     * Facilitate team changes
     * Technology Dam breaker: in a kind non-life threatening manner - what library or tool can this team use they may not know about?
 
+#Team Participants
+
+* Innovation is unpredictable!  Sensitive subject matter and personal physical boundaries may become an issue so find a process with your team to check-in regularly to address any issues to be aware of as a group.  If you find that you are not feel comfortable sharing with the Team, please reach out privately to discuss with an organizer or other instructor.   
+* Be supportive!  Learning software and personal growth both require vulnerability and a safe space.  If anyone displays negative attitudes, judgments or insensitivity, we want to authentically address it.  If there are concerns outside of the scope you are comfortable addressing, speak with another leader about it or please contact Christina.  
+* We aim to please.  Keep your instructors updated as to whether your learning and personal goals for the hackweek are being met.  If they aren’t, we will do everything we can to help you meet your goals.  
+* Everyone at hackweek is primarily participating on a volunteer basis.  Please respect that this is a new community growing on donated time.  If resolution to any issue is beyond the scope of hackweek, we will direct you to more resources. 
+
 
 once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the "Project Guidelines" below.  Each morning will start with a daily stand-up meeting to check-in on progress and challenges. On day 3 we will have a mid-week project check-in. On day 5 each team will present their work in a series of lightning talks. 
 
