@@ -84,11 +84,11 @@ if you have a project idea already brewing, we encourage you to share that with 
 
 ## Where can I find help ?
 
-# Instructor Tables
+### Instructor Tables
 
-# Instructor Bios
+### Instructor Bios
 
-# Project Help-Desk Data Scientists
+### Project Help-Desk Data Scientists
 
 By definition, anything could happen in a hackweek project! If you want it to happen faster, ask us for help. If you want help avoiding a downturn in productivity, teamwork, or creativity, we can help come up with ideas and solutions.
 
