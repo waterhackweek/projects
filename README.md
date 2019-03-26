@@ -3,6 +3,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 
 | Project Name | slack channel | Hydroshare | Data Science Lead | Project Lead |
 |:------|:--------|:---------|:------------|:----------|
+|[whw2019_watermesh](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek2019.slack.com/messages/CH9E4NTU4) | [TBD] | Jim Phuong| Taina Rodriguez Curet |
 |[Mapping Groundwater Contaminants](https://github.com/waterhackweek/whw2019_Mapping_Groundwater_Contaminants.git) | [#map_gw_contaminants](https://waterhackweek2019.slack.com/messages/CH428D9RU) | [TBD] | Rohit Khattar| Katya Cherukumilli |
 | [Studying the influence of climate on woody plant encroachment in semiarid areas of Western US](https://github.com/waterhackweek/whw19_landlab_ecohydrology) | [\#landlab_ecohydrology](https://waterhackweek2019.slack.com/messages/CHAE3BJ9M) |  | Sai Nudurupati | Erkan Istanbulluoglu |
 |[Understanding the diversity of hydrological regimes in the Andean Amazon region](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro) | [#andeanamazonhydro](https://waterhackweek2019.slack.com/messages/CGZP08WHX) | [TBD] | Yesica Leon-Tinoco | Guido A. Herrera-R |
