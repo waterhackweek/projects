@@ -47,9 +47,9 @@ Hacking is a session of focused, highly collaborative computer programming, in w
 Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. At waterhack week, our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
 
 # How will the projects be conducted?
-on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
-each team will identify:
-## project lead
+On day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
+each team will identify a:
+## Project Lead
 * Coordinate team in the direction of the research question pitch.  Data, code, and tools originally proposed may change.   Avoid dispensing and coordinating tasks.  
 * Everyone should code something or get their hands on the data in their way.  
 * The project scientist makes sure that their team all meet their individual goals, and that the team evolves.
@@ -58,8 +58,17 @@ each team will identify:
 * Coordinate with 1-2 Data Scientists to support your team, especially Github workflows that work for everyone to be able to contribute code. 
 * Manage data.  Be sure you have permission and consent to use data you share in the project.  Follow professional standards while using data for training that may be used in  future publications.  Here is a good resource on publication of data and consent ethics. 
 
-## data science lead 
-... from the pool of waterhack instructors who has expertise in the data tools and methods
+## Data Science Lead 
+* Any group can ask any data scientist for help. 
+* Interact with as many people as possible.
+* Enable and encourage participants to solve their problems in a way that builds confidence in their skills
+* Data scientists will be responsible for supporting at least one project, but expected to float around as needed.
+    * Support for one project means that on Monday, the team’s data scientist should coordinate a Github workflow that works best for the       team by facilitating a team conversation. 
+    * Mentor:  Remove personal/interpersonal roadblocks
+    * Be in tune with progress toward individual goals (discrete daily personal brief checking)
+    * Facilitate team changes
+    * Technology Dam breaker: in a kind non-life threatening manner - what library or tool can this team use they may not know about?
+
 
 once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the "Project Guidelines" below.  Each morning will start with a daily stand-up meeting to check-in on progress and challenges. On day 3 we will have a mid-week project check-in. On day 5 each team will present their work in a series of lightning talks. 
 
