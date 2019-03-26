@@ -10,6 +10,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 |[Understanding the diversity of hydrological regimes in the Andean Amazon region](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro) | [#andeanamazonhydro](https://waterhackweek2019.slack.com/messages/CGZP08WHX) | [TBD] | Yesica Leon-Tinoco | Guido A. Herrera-R |
 |[whw2019_northern-lakes](https://github.com/waterhackweek/whw2019_northern-lakes) | [#northern_lakes](https://waterhackweek2019.slack.com/messages/CHATJ7X2S) | [TBD] | | |
 |[whw2019_snow_modeling](https://github.com/waterhackweek/whw2019_snow_modeling)|[#snow_modeling](https://waterhackweek2019.slack.com/messages/CH9CULM2Q)|||Andrew Bennett|
+|[meteo_forcing_wrfhydro](https://github.com/waterhackweek/meteo_forcing_wrfhydro)|[#meteo_wrfhydro](https://waterhackweek2019.slack.com/messages/CH9CXURB6)||Yu-Fen Huang|Yin-Phan Tsang|
 
 More coming soon in 2019!
 
