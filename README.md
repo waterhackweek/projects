@@ -30,11 +30,11 @@ This repository contains information on waterhackweek projects.  Please read mor
 More coming soon in 2019!
 
 # GeoHackWeek Archives
-| Project Name | slack channel | Hydroshare | Data Science Lead | Project Lead |
-|:------|:--------|:---------|:------------|:----------|
-| [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  | | |
-| [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |  | | |
-| [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |  | | |
+| Project Name | slack channel | Hydroshare |
+|:------|:--------|:---------|
+| [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  | 
+| [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |  | 
+| [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |  | 
 |[Snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)||
 
 # Purpose of the projects:
