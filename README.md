@@ -17,7 +17,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 ||Jim Phuong| Taina Rodriguez Curet ||
 |Mapping Groundwater Contaminants| Rohit Khattar| Katya Cherukumilli ||
 |Studying the influence of climate on woody plant encroachment in semiarid areas of Western US | Sai Nudurupati | Erkan Istanbulluoglu ||
-|Understanding the diversity of hydrological regimes in the Andean Amazon region|Yesica Leon-Tinoco | Guido A. Herrera-R |||
+|Understanding the diversity of hydrological regimes in the Andean Amazon region|Yesica Leon-Tinoco | Guido A. Herrera-R ||
 |Northern Lakes||| |
 |Snow Modeling||Andrew Bennett||
 |Meteo Forcing Hydro|Yu-Fen Huang|Yin-Phan Tsang||
