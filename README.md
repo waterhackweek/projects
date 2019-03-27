@@ -6,7 +6,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Project Name | Github Repo | slack channel | Hydroshare |
 |:--------|:------|:--------|:---------|
 ||[whw2019_watermesh](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek2019.slack.com/messages/CH9E4NTU4) | [TBD] | 
-|Mapping Inorganic Groundwater Contaminants and their co-occurence in |[whw2019_Mapping_Groundwater_Contaminants](https://github.com/waterhackweek/whw2019_Mapping_Groundwater_Contaminants.git) | [#map_gw_contaminants](https://waterhackweek2019.slack.com/messages/CH428D9RU) | [TBD] | 
+|Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern |[whw2019_Mapping_Groundwater_Contaminants](https://github.com/waterhackweek/whw2019_Mapping_Groundwater_Contaminants.git) | [#map_gw_contaminants](https://waterhackweek2019.slack.com/messages/CH428D9RU) | [TBD] | 
 |Climate change and ecohydrologic response using Landlab| [whw19_landlab_ecohydrology](https://github.com/waterhackweek/whw19_landlab_ecohydrology) | [\#landlab_ecohydrology](https://waterhackweek2019.slack.com/messages/CHAE3BJ9M) |  |
 |Understanding the diversity of hydrological regimes in the Andean Amazon region|[whw2019_AndeanAmazonHydro](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro) | [#andeanamazonhydro](https://waterhackweek2019.slack.com/messages/CGZP08WHX) | [TBD] | 
 |Effects of wildlife on Tundra hydrology and lake change|[whw2019_northern-lakes](https://github.com/waterhackweek/whw2019_northern-lakes) | [#northern_lakes](https://waterhackweek2019.slack.com/messages/CHATJ7X2S) | [TBD] |
@@ -20,7 +20,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Project Name |Data Science Tools|Data Science Lead|Project Lead|Location|
 |:--------|:------|:--------|:--------|:---------|
 |Water Mesh||Jim Phuong| Taina Rodriguez Curet ||
-|Mapping Inorganic Groundwater Contaminants and their co-occurence in|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
+|Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
 |Climate change and ecohydrologic response using Landlab |Landlab , numpy , matplotlib , openpyxl , OGH| Sai Nudurupati | Kaiwen Wang ||
 |Understanding the diversity of hydrological regimes in the Andean Amazon region|Tethys , Func-Flow|Yesica Leon-Tinoco | Guido A. Herrera-R ||
 |Northern Lakes|||| |
