@@ -12,7 +12,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Effects of wildlife on Tundra hydrology and lake change|[whw2019_northern-lakes](https://github.com/waterhackweek/whw2019_northern-lakes) | [#northern_lakes](https://waterhackweek2019.slack.com/messages/CHATJ7X2S) | [TBD] |
 |Snow modeling with SUMMA and pysumma|[whw2019_snow_modeling](https://github.com/waterhackweek/whw2019_snow_modeling)|[#snow_modeling](https://waterhackweek2019.slack.com/messages/CH9CULM2Q)| |
 |Tuolumne snowmelt during rain on snow events|[whw2019_snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)| |
-||[meteo_forcing_wrfhydro](https://github.com/waterhackweek/meteo_forcing_wrfhydro)|[#meteo_wrfhydro](https://waterhackweek2019.slack.com/messages/CH9CXURB6)| |
+|Meteorological forcing data for NWM/WRF-Hydro|[meteo_forcing_wrfhydro](https://github.com/waterhackweek/meteo_forcing_wrfhydro)|[#meteo_wrfhydro](https://waterhackweek2019.slack.com/messages/CH9CXURB6)| |
 |How will climate change affect hydrologic extreme events in the Pacific Northwest|[whw2019_extremeH2O](https://github.com/waterhackweek/whw2019_extremeH2O)|[#extremeh20](https://waterhackweek2019.slack.com/messages/CH9D4KYBE)| |
 
 ## Project Tools/Roles/Location
@@ -26,7 +26,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Effects of wildlife on Tundra hydrology and lake change|Google Earth Engine, Visualization in Python||| |
 |Snow Modeling with SUMMA and pysumma|pysumma , xarray||Andrew Bennett|California|
 |Tuolumne snowmelt during rain on snow events|gasterio , numpy , geopandas , matplotlib|Steven Pestana|Lisa Katz|Upper Tuolumne Watershed|
-|Meteo Forcing Hydro||Yu-Fen Huang|Yin-Phan Tsang||
+|Meteorological forcing data for NWM/WRF-Hydro||Yu-Fen Huang|Yin-Phan Tsang||
 |How will climate change affect hydrologic extreme events in the Pacific Northwest |Xarray,pandas,cartopy,seaborn|Yifan Cheng|Oriana Chegwidden|Pacific Northwest|
 
 More coming soon in 2019!
