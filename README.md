@@ -20,14 +20,14 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Project Name |Data Science Tools|Data Science Lead|Project Lead|Location|
 |:--------|:------|:--------|:--------|:---------|
 |Water Mesh||Jim Phuong| Taina Rodriguez Curet ||
-|Mapping Groundwater Contaminants|| Rohit Khattar| Katya Cherukumilli ||
-|Climate change and ecohydrologic response using Landlab || Sai Nudurupati | Kaiwen Wang ||
-|Understanding the diversity of hydrological regimes in the Andean Amazon region||Yesica Leon-Tinoco | Guido A. Herrera-R ||
+|Mapping Inorganic Groundwater Contaminants and their co-occurence in|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
+|Climate change and ecohydrologic response using Landlab |Landlab , numpy , matplotlib , openpyxl , OGH| Sai Nudurupati | Kaiwen Wang ||
+|Understanding the diversity of hydrological regimes in the Andean Amazon region|Tethys , Func-Flow|Yesica Leon-Tinoco | Guido A. Herrera-R ||
 |Northern Lakes|||| |
-|Snow Modeling|||Andrew Bennett||
-|Snowmelt||Steven Pestana|Lisa Katz||
+|Snow Modeling with SUMMA and pysumma|pysumma , xarray||Andrew Bennett|California|
+|Tuolumne snowmelt during rain on snow events|gasterio , numpy , geopandas , matplotlib|Steven Pestana|Lisa Katz|Upper Tuolumne Watershed|
 |Meteo Forcing Hydro||Yu-Fen Huang|Yin-Phan Tsang||
-|Extreme H20||Yifan Cheng|Oriana Chegwidden||
+|How will climate change affect hydrologic extreme events in the Pacific Northwest |Xarray,pandas,cartopy,seaborn|Yifan Cheng|Oriana Chegwidden|Pacific Northwest|
 
 More coming soon in 2019!
 
