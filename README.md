@@ -19,11 +19,11 @@ This repository contains information on waterhackweek projects.  Please read mor
 
 |Project Name |Data Science Tools|Data Science Lead|Project Lead|Location|
 |:--------|:------|:--------|:--------|:---------|
-|Water Mesh||Jim Phuong| Taina Rodriguez Curet ||
+|Civil digital infrastructure for real-world health impacts made possible by information flow, data sharing, and data security that enables clean water for everyone.||Jim Phuong| Taina Rodriguez Curet |Puerto Rico|
 |Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
 |Climate change and ecohydrologic response using Landlab |Landlab , numpy , matplotlib , openpyxl , OGH| Sai Nudurupati | Kaiwen Wang ||
 |Understanding the diversity of hydrological regimes in the Andean Amazon region|Tethys , Func-Flow|Yesica Leon-Tinoco | Guido A. Herrera-R ||
-|Effects of wildlife on Tundra hydrology and lake change|Google Earth Engine, Visualization in Python||| |
+|Effects of wildlife on Tundra hydrology and lake change|Google Earth Engine, Visualization in Python|||Yukon Kuskokwim delta, Alaska|
 |Snow Modeling with SUMMA and pysumma|pysumma , xarray||Andrew Bennett|California|
 |Tuolumne snowmelt during rain on snow events|gasterio , numpy , geopandas , matplotlib|Steven Pestana|Lisa Katz|Upper Tuolumne Watershed|
 |Meteorological forcing data for NWM/WRF-Hydro||Yu-Fen Huang|Yin-Phan Tsang||
