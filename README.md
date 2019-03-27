@@ -22,7 +22,7 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Civil digital infrastructure for real-world health impacts made possible by information flow, data sharing, and data security that enables clean water for everyone.||Jim Phuong| Taina Rodriguez Curet |Puerto Rico|
 |Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
 |Climate change and ecohydrologic response using Landlab |Landlab , numpy , matplotlib , openpyxl , OGH| Sai Nudurupati | Kaiwen Wang ||
-|Understanding the diversity of hydrological regimes in the Andean Amazon region|Tethys , Func-Flow|Yesica Leon-Tinoco | Guido A. Herrera-R ||
+|Understanding the diversity of hydrological regimes in the Andean Amazon region|Tethys , Func-Flow|Yesica Leon-Tinoco | Guido A. Herrera-R |Andean Amazon in Ecuador and Brazil|
 |Effects of wildlife on Tundra hydrology and lake change|Google Earth Engine, Visualization in Python|||Yukon Kuskokwim delta, Alaska|
 |Snow Modeling with SUMMA and pysumma|pysumma , xarray||Andrew Bennett|California|
 |Tuolumne snowmelt during rain on snow events|gasterio , numpy , geopandas , matplotlib|Steven Pestana|Lisa Katz|Upper Tuolumne Watershed|
