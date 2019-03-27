@@ -29,8 +29,6 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Meteorological forcing data for NWM/WRF-Hydro||Yu-Fen Huang|Yin-Phan Tsang||
 |How will climate change affect hydrologic extreme events in the Pacific Northwest |Xarray,pandas,cartopy,seaborn|Yifan Cheng|Oriana Chegwidden|Pacific Northwest|
 
-More coming soon in 2019!
-
 # GeoHackWeek Archives
 | Project Name | slack channel | Hydroshare |
 |:------|:--------|:---------|
