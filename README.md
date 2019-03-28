@@ -88,6 +88,7 @@ if you have a project idea already brewing, we encourage you to share that with 
 We have some tables where data scientists will congregate and participants can find any kind of support they need.
 
 ### Instructor Bios
+We have the Instructor Bios and some sticky notes put up at one end of the room. This can be used to identify who is available and what they want to be asked about.  
 
 ### Project Help-Desk Data Scientists
 
