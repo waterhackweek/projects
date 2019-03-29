@@ -23,10 +23,10 @@ This repository contains information on waterhackweek projects.  Please read mor
 |Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
 |Climate change and ecohydrologic response using Landlab |Landlab , numpy , matplotlib , openpyxl , OGH| Sai Nudurupati | Kaiwen Wang ||
 |Understanding the diversity of hydrological regimes in the Andean Amazon region|Tethys , Func-Flow|Yesica Leon-Tinoco | Guido A. Herrera-R |Andean Amazon in Ecuador and Brazil|
-|Effects of wildlife on Tundra hydrology and lake change|Google Earth Engine, Visualization in Python|||Yukon Kuskokwim delta, Alaska|
+|Effects of wildlife on Tundra hydrology and lake change|Google Earth Engine, Visualization in Python|Matthew Bonnema|Paul Mann|Yukon Kuskokwim delta, Alaska|
 |Snow Modeling with SUMMA and pysumma|pysumma , xarray||Andrew Bennett|California|
 |Tuolumne snowmelt during rain on snow events|gasterio , numpy , geopandas , matplotlib|Steven Pestana|Lisa Katz|Upper Tuolumne Watershed|
-|Meteorological forcing data for NWM/WRF-Hydro||Yu-Fen Huang|Yin-Phan Tsang||
+|Meteorological forcing data for NWM/WRF-Hydro||Yu-Fen Huang|Yin-Phan Tsang|Hawaii|
 |How will climate change affect hydrologic extreme events in the Pacific Northwest |Xarray,pandas,cartopy,seaborn|Yifan Cheng|Oriana Chegwidden|Pacific Northwest|
 
 # GeoHackWeek Archives
