@@ -164,6 +164,7 @@ Publication: once your data is ready for formal publication, you can get a digit
 In HydroShare, the content you upload and publish is referred to as a "resource". 
 
 Learn more about how to upload and publish a resource here :
+
 https://help.hydroshare.org/creating-and-managing-resources/
 
 ### What kind of metadata should I add for my resource ?
@@ -192,6 +193,7 @@ Citations include any institutes/universities/organizations that are to be credi
 
 https://help.hydroshare.org/creating-and-managing-resources/connecting-your-resource-data-with-your-publication/
 
+### Additional Links
 
 [Guide for Data Authors and Publishers](https://help.hydroshare.org/static/media/uploads/hydroshare_guide_for_data_authors_and_publishers.pdf)
 
