@@ -141,3 +141,51 @@ _List all participants on the project. Choose one team member to act as project 
 #### The problem
 
 What water data science problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
+
+# HydroShare guidelines
+
+### What is HydroShare ?
+
+HydroShare is CUAHSI's online collaboration environment for sharing data, models, and code. Learn more about how to get started with HydroShare here : https://help.hydroshare.org/introduction-to-hydroshare/getting-started/
+
+### Why put my data on HydroShare?
+
+Data storage and limits: While code repositories like Github are optimized for version control and code publication, they have a strict file size limitation of 100 MB and total repository limit of 1GB.  HydroShare has a file size limit of 1 GB and each user receives automatically an allocation of 20 GB of space for their resources when they sign up. Users who need more space should contact help@cuahsi.org and explain who they are and why they need more space. 
+
+Sharing: each file uploaded to Hydroshare receives a hyperlink that can be shared for easy download and data sharing, even with colleagues who are not HydroShare users. 
+
+Publication: once your data is ready for formal publication, you can get a digital object identifier (DOI) for each HydroShare resource.
+
+### What is a HydroShare resource ? How can I upload and publish a resource ?
+
+In HydroShare, the content you upload and publish is referred to as a "resource". 
+Learn more about how to upload and publish a resource here :
+https://help.hydroshare.org/creating-and-managing-resources/
+
+### What kind of metadata should I add for my resource ?
+
+When you create a new resource, you will be taken to the landing page for that resource, where you can edit the metadata. You can also edit the metadata elements of your resource at any point after its creation by clicking on the “Edit Resource” button on the landing page. 
+
+Learn more about how to describe your resource using different metadata elements :
+https://help.hydroshare.org/creating-and-managing-resources/best-practices-for-describing-your-resource-with-metadata/
+
+### What if I want to add custom/additional metadata for my resource ?
+
+You can describe your resource using additional metadata elements beyond the default elements provided directly on the page. You can click on the plus icon next to “Additional Metadata”  and mention the name and value of the new metadata element.
+
+### What if I have large number of resources or additional information about them ?
+
+Sometimes, you may wish to add a detailed description of the contents of your resource, and it is inconvenient to type all of this text into the Abstract element or to include it as “Additional Metadata” elements.
+
+One way to give detailed description of resource files is to include a README.txt or README.md file along with your resources. This README file can contain information related to but not restricted to:
+
+Organization of different resource files into a directory structure
+Description about the different attributes in the data resource(s). Additionally, one can add if the attribute is categorical or quantitative. If they are categorical and have been encoded, mention what each encoding means. For eg: 0 means female, 1 means male.
+
+### How can I cite my resource ?
+
+Citations include any institutes/universities/organizations that are to be credited for creating and collecting the data in this resource.
+https://help.hydroshare.org/creating-and-managing-resources/connecting-your-resource-data-with-your-publication/
+
+
+
