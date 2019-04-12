@@ -142,11 +142,13 @@ _List all participants on the project. Choose one team member to act as project 
 
 What water data science problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
 
-# HydroShare guidelines
+# HydroShare Guidelines
 
 ### What is HydroShare ?
 
-HydroShare is CUAHSI's online collaboration environment for sharing data, models, and code. Learn more about how to get started with HydroShare here : https://help.hydroshare.org/introduction-to-hydroshare/getting-started/
+HydroShare is CUAHSI's online collaboration environment for sharing data, models, and code.
+
+Learn more about how to get started with HydroShare here : https://help.hydroshare.org/introduction-to-hydroshare/getting-started/
 
 ### Why put my data on HydroShare?
 
@@ -159,6 +161,7 @@ Publication: once your data is ready for formal publication, you can get a digit
 ### What is a HydroShare resource ? How can I upload and publish a resource ?
 
 In HydroShare, the content you upload and publish is referred to as a "resource". 
+
 Learn more about how to upload and publish a resource here :
 https://help.hydroshare.org/creating-and-managing-resources/
 
@@ -185,7 +188,13 @@ Description about the different attributes in the data resource(s). Additionally
 ### How can I cite my resource ?
 
 Citations include any institutes/universities/organizations that are to be credited for creating and collecting the data in this resource.
+
 https://help.hydroshare.org/creating-and-managing-resources/connecting-your-resource-data-with-your-publication/
 
+## Guide for Data Authors and Publishers :
+
+https://help.hydroshare.org/static/media/uploads/hydroshare_guide_for_data_authors_and_publishers.pdf
+
+[Read More Frequently Asked HydroShare Questions here](https://help.hydroshare.org/introduction-to-hydroshare/frequently-asked-questions/)
 
 
