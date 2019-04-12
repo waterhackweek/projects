@@ -184,8 +184,8 @@ Sometimes, you may wish to add a detailed description of the contents of your re
 
 One way to give detailed description of resource files is to include a README.txt or README.md file along with your resources. This README file can contain information related to but not restricted to:
 
-Organization of different resource files into a directory structure
-Description about the different attributes in the data resource(s). Additionally, one can add if the attribute is categorical or quantitative. If they are categorical and have been encoded, mention what each encoding means. For eg: 0 means female, 1 means male.
+* Organization of different resource files into a directory structure
+* Description about the different attributes in the data resource(s). Additionally, one can add if the attribute is categorical or quantitative. If they are categorical and have been encoded, mention what each encoding means. For eg: 0 means female, 1 means male.
 
 ### How can I cite my resource ?
 
