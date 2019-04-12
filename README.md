@@ -148,7 +148,8 @@ What water data science problem are you going to explore? Provide a few sentence
 
 HydroShare is CUAHSI's online collaboration environment for sharing data, models, and code.
 
-Learn more about how to get started with HydroShare here : https://help.hydroshare.org/introduction-to-hydroshare/getting-started/
+Learn more about how to get started with HydroShare here : 
+https://help.hydroshare.org/introduction-to-hydroshare/getting-started/
 
 ### Why put my data on HydroShare?
 
@@ -191,9 +192,8 @@ Citations include any institutes/universities/organizations that are to be credi
 
 https://help.hydroshare.org/creating-and-managing-resources/connecting-your-resource-data-with-your-publication/
 
-## Guide for Data Authors and Publishers :
 
-https://help.hydroshare.org/static/media/uploads/hydroshare_guide_for_data_authors_and_publishers.pdf
+[Guide for Data Authors and Publishers](https://help.hydroshare.org/static/media/uploads/hydroshare_guide_for_data_authors_and_publishers.pdf)
 
 [Read More Frequently Asked HydroShare Questions here](https://help.hydroshare.org/introduction-to-hydroshare/frequently-asked-questions/)
 
