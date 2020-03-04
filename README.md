@@ -1,42 +1,6 @@
 # Projects
 This repository contains information on waterhackweek projects.  Please read more about [Project Guidelines](https://waterhackweek.github.io/wiki/project_guidelines.html) and [Project management](https://waterhackweek.github.io/wiki/github_project_management.html) on the Waterhackweek Wiki.  
 
-## Project Checkpoints
-
-|Project Name | Github Repo | slack channel | Hydroshare |
-|:--------|:------|:--------|:---------|
-|Civil digital infrastructure for real-world health impacts made possible by information flow, data sharing, and data security that enables clean water for everyone.|[whw2019_watermesh](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek2019.slack.com/messages/CH9E4NTU4) | [TBD] | 
-|Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern |[whw2019_Mapping_Groundwater_Contaminants](https://github.com/waterhackweek/whw2019_Mapping_Groundwater_Contaminants.git) | [#map_gw_contaminants](https://waterhackweek2019.slack.com/messages/CH428D9RU) | [TBD] | 
-|Climate change and ecohydrologic response using Landlab| [whw19_landlab_ecohydrology](https://github.com/waterhackweek/whw19_landlab_ecohydrology) | [\#landlab_ecohydrology](https://waterhackweek2019.slack.com/messages/CHAE3BJ9M) |  |
-|Understanding the diversity of hydrological regimes in the Andean Amazon region|[whw2019_AndeanAmazonHydro](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro) | [#andeanamazonhydro](https://waterhackweek2019.slack.com/messages/CGZP08WHX) | [TBD] | 
-|Effects of wildlife on Tundra hydrology and lake change|[whw2019_northern-lakes](https://github.com/waterhackweek/whw2019_northern-lakes) | [#northern_lakes](https://waterhackweek2019.slack.com/messages/CHATJ7X2S) | [TBD] |
-|Snow modeling with SUMMA and pysumma|[whw2019_snow_modeling](https://github.com/waterhackweek/whw2019_snow_modeling)|[#snow_modeling](https://waterhackweek2019.slack.com/messages/CH9CULM2Q)| |
-|Tuolumne snowmelt during rain on snow events|[whw2019_snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)| |
-|Meteorological forcing data for NWM/WRF-Hydro|[meteo_forcing_wrfhydro](https://github.com/waterhackweek/meteo_forcing_wrfhydro)|[#meteo_wrfhydro](https://waterhackweek2019.slack.com/messages/CH9CXURB6)| |
-|How will climate change affect hydrologic extreme events in the Pacific Northwest|[whw2019_extremeH2O](https://github.com/waterhackweek/whw2019_extremeH2O)|[#extremeh20](https://waterhackweek2019.slack.com/messages/CH9D4KYBE)| |
-
-## Project Tools/Roles/Location
-
-|Project Name |Data Science Tools|Data Science Lead|Project Lead|Location|
-|:--------|:------|:--------|:--------|:---------|
-|Civil digital infrastructure for real-world health impacts made possible by information flow, data sharing, and data security that enables clean water for everyone.||Jim Phuong| Taina Rodriguez Curet |Puerto Rico|
-|Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
-|Climate change and ecohydrologic response using Landlab |Landlab , numpy , matplotlib , openpyxl , OGH| Sai Nudurupati | Kaiwen Wang |Central New Mexico, USA|
-|Understanding the diversity of hydrological regimes in the Andean Amazon region|Tethys , Func-Flow|Yesica Leon-Tinoco | Guido A. Herrera-R |Andean Amazon in Ecuador and Brazil|
-|Effects of wildlife on Tundra hydrology and lake change|Google Earth Engine, Visualization in Python|Matthew Bonnema|Paul Mann|Yukon Kuskokwim delta, Alaska|
-|Snow Modeling with SUMMA and pysumma|pysumma , xarray||Andrew Bennett|California|
-|Tuolumne snowmelt during rain on snow events|gasterio , numpy , geopandas , matplotlib|Steven Pestana|Lisa Katz|Upper Tuolumne Watershed|
-|Meteorological forcing data for NWM/WRF-Hydro||Yu-Fen Huang|Yin-Phan Tsang|Hawaii|
-|How will climate change affect hydrologic extreme events in the Pacific Northwest |Xarray,pandas,cartopy,seaborn|Yifan Cheng|Oriana Chegwidden|Pacific Northwest|
-
-# GeoHackWeek Archives
-| Project Name | slack channel | Hydroshare |
-|:------|:--------|:---------|
-| [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  | 
-| [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |  | 
-| [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |  | 
-|[Snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)||
-
 # Purpose of the projects:
 During Waterhackweek we will be facilitating open hacking sessions most of the afternoons. The purpose of these sessions is for you to gain hands-on experience in working together on a well-defined problem related to geospatial sciences.
 
@@ -201,4 +165,40 @@ https://help.hydroshare.org/creating-and-managing-resources/connecting-your-reso
 
 [Best Practices for Designating Authorship](https://www.epa.gov/sites/production/files/2016-09/documents/best_practices_designating_authorship_printer_friendly_2016.pdf)
 
+
+## Project Checkpoints
+
+|Project Name | Github Repo | slack channel | Hydroshare |
+|:--------|:------|:--------|:---------|
+|Civil digital infrastructure for real-world health impacts made possible by information flow, data sharing, and data security that enables clean water for everyone.|[whw2019_watermesh](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek2019.slack.com/messages/CH9E4NTU4) | [TBD] | 
+|Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern |[whw2019_Mapping_Groundwater_Contaminants](https://github.com/waterhackweek/whw2019_Mapping_Groundwater_Contaminants.git) | [#map_gw_contaminants](https://waterhackweek2019.slack.com/messages/CH428D9RU) | [TBD] | 
+|Climate change and ecohydrologic response using Landlab| [whw19_landlab_ecohydrology](https://github.com/waterhackweek/whw19_landlab_ecohydrology) | [\#landlab_ecohydrology](https://waterhackweek2019.slack.com/messages/CHAE3BJ9M) |  |
+|Understanding the diversity of hydrological regimes in the Andean Amazon region|[whw2019_AndeanAmazonHydro](https://github.com/waterhackweek/whw2019_AndeanAmazonHydro) | [#andeanamazonhydro](https://waterhackweek2019.slack.com/messages/CGZP08WHX) | [TBD] | 
+|Effects of wildlife on Tundra hydrology and lake change|[whw2019_northern-lakes](https://github.com/waterhackweek/whw2019_northern-lakes) | [#northern_lakes](https://waterhackweek2019.slack.com/messages/CHATJ7X2S) | [TBD] |
+|Snow modeling with SUMMA and pysumma|[whw2019_snow_modeling](https://github.com/waterhackweek/whw2019_snow_modeling)|[#snow_modeling](https://waterhackweek2019.slack.com/messages/CH9CULM2Q)| |
+|Tuolumne snowmelt during rain on snow events|[whw2019_snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)| |
+|Meteorological forcing data for NWM/WRF-Hydro|[meteo_forcing_wrfhydro](https://github.com/waterhackweek/meteo_forcing_wrfhydro)|[#meteo_wrfhydro](https://waterhackweek2019.slack.com/messages/CH9CXURB6)| |
+|How will climate change affect hydrologic extreme events in the Pacific Northwest|[whw2019_extremeH2O](https://github.com/waterhackweek/whw2019_extremeH2O)|[#extremeh20](https://waterhackweek2019.slack.com/messages/CH9D4KYBE)| |
+
+## Project Tools/Roles/Location
+
+|Project Name |Data Science Tools|Data Science Lead|Project Lead|Location|
+|:--------|:------|:--------|:--------|:---------|
+|Civil digital infrastructure for real-world health impacts made possible by information flow, data sharing, and data security that enables clean water for everyone.||Jim Phuong| Taina Rodriguez Curet |Puerto Rico|
+|Mapping Co-Occurrence of Geogenic Groundwater Contaminants of Concern|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
+|Climate change and ecohydrologic response using Landlab |Landlab , numpy , matplotlib , openpyxl , OGH| Sai Nudurupati | Kaiwen Wang |Central New Mexico, USA|
+|Understanding the diversity of hydrological regimes in the Andean Amazon region|Tethys , Func-Flow|Yesica Leon-Tinoco | Guido A. Herrera-R |Andean Amazon in Ecuador and Brazil|
+|Effects of wildlife on Tundra hydrology and lake change|Google Earth Engine, Visualization in Python|Matthew Bonnema|Paul Mann|Yukon Kuskokwim delta, Alaska|
+|Snow Modeling with SUMMA and pysumma|pysumma , xarray||Andrew Bennett|California|
+|Tuolumne snowmelt during rain on snow events|gasterio , numpy , geopandas , matplotlib|Steven Pestana|Lisa Katz|Upper Tuolumne Watershed|
+|Meteorological forcing data for NWM/WRF-Hydro||Yu-Fen Huang|Yin-Phan Tsang|Hawaii|
+|How will climate change affect hydrologic extreme events in the Pacific Northwest |Xarray,pandas,cartopy,seaborn|Yifan Cheng|Oriana Chegwidden|Pacific Northwest|
+
+# GeoHackWeek Archives
+| Project Name | slack channel | Hydroshare |
+|:------|:--------|:---------|
+| [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  | 
+| [Freshwaterhack of geohackweek 2016: Oh Well](https://github.com/geohackweek/ghw2018_snowmelt) | |  | 
+| [Web portal for carbon dioxide in global inland waters](https://github.com/geohackweek/ghw2018_web_portal_inlandwater_co2)  | [\#co2web](https://geohackweek2018.slack.com/messages/co2web/) |  | 
+|[Snowmelt](https://github.com/waterhackweek/whw2019_snowmelt)|[#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)||
 
