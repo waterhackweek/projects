@@ -1,17 +1,10 @@
-## Project Tools/Roles/Location   2020
+## Project Table 2020
 
-|Project Name |Slack, Github, Hydroshare |Data Science Tools|Team |Team Lead  | Project Lead | Data Science Lead| Geoscience Domain |
+|Project Name |Where we work: Slack, Github, Hydroshare |Cyberinfrastructure & Data Science Tools|Team |Team Lead  | Project Lead | Data Science Lead| Geoscience Domain |
 |:--------|:------|:--------|:--------|:---------|:--------|:------|:------|
-|Evolving Team Cooties: Infectiously Open, Wildly Transmissible, Hilariously Accessible|[#watermesh](https://waterhackweek.slack.com/messages/CH9E4NTU4)   [whw2020_flattenthecurve](https://github.com/waterhackweek/whw2019_watermesh)   HydroShare Resource TBD  |Cloud Widgets in Jupyter, Visualization with Bokeh, Data Smashing (COVID-19, National Water Model), Statistics for Public Translation |WHW Organizers & Contributing Friends: Philip,  Mary|Christina|Tony| Scott| Open Global GeoHealth |
+|Evolving Team Cooties: Infectiously Open, Wildly Transmissible, Hilariously Accessible|[#teamcooties](https://waterhackweek.slack.com/messages/CH9E4NTU4)   [whw2020_flattenthecurve](https://github.com/waterhackweek/whw2019_watermesh)   HydroShare Resource TBD  |Cloud Widgets in Jupyter, Visualization with Bokeh, Data Smashing (COVID-19, National Water Model), Statistics for Public Translation |WHW Organizers & Contributing Friends: Philip,  Mary|Christina|Tony| Scott| Open Global GeoHealth |
 
-|Your Project Here|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Amazing Khattar| Katya Cherukumilli |India, US|
-
-## Project Checkpoints
-
-|Project Name | Github | Slack | Hydroshare |
-|:--------|:------|:--------|:---------|
-|Civil digital infrastructure for real-world health impacts made possible by information flow, data sharing, and data security that enables clean water for everyone.|[whw2019_watermesh](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek2019.slack.com/messages/CH9E4NTU4) | [TBD] | 
-
+|The Next Amazing Project|Where we work: #funSlack, hyperlinkGithub, Hydroshareresource |XSEDE, Pangeo, Scikitlearn, landlab, matplotlib, plotly, pandas, xarray, numpy, scipy, cartop ... Cyberinfrastructure & Data Science Tools|Enthusiast Team |Kind Team Lead  |Passionate Project Lead |Knowledgeable Data Science Lead| Exciting Geoscience Domain |
 
 # Projects
 This repository contains information on waterhackweek projects.  Please read more about [Project Guidelines](https://waterhackweek.github.io/wiki/project_guidelines.html) and [Project management](https://waterhackweek.github.io/wiki/github_project_management.html) on the Waterhackweek Wiki.  
