@@ -1,8 +1,8 @@
 ## Project Tools/Roles/Location   2020
 
-|Project Name |Github | Slack | Hydroshare |Data Science Tools|Data Science Lead|Project Lead|Geoscience Domain |
+|Project Name |Slack, Github, Hydroshare |Data Science Tools|Team |Team Lead  | Project Lead | Data Science Lead| Geoscience Domain |
 |:--------|:------|:--------|:--------|:---------|:--------|:------|:------|
-|Evolving Team Cooties:Infectiously Open, Wildly Transmissible, Hilariously Accessible Information|[whw2020_flattenthecurve](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek.slack.com/messages/CH9E4NTU4) | HydroShare Resource  |Cloud Widgets in Jupyter, Visualization with Bokeh, Data Smashing (COVID-19, National Water Model), Statistics for Public Translation |Christina, Mary, Tony, Scott| Contributing Friends: Philip| Open Global Pandemic |
+|Evolving Team Cooties: Infectiously Open, Wildly Transmissible, Hilariously Accessible|[#watermesh](https://waterhackweek.slack.com/messages/CH9E4NTU4)   [whw2020_flattenthecurve](https://github.com/waterhackweek/whw2019_watermesh)   HydroShare Resource TBD  |Cloud Widgets in Jupyter, Visualization with Bokeh, Data Smashing (COVID-19, National Water Model), Statistics for Public Translation |WHW Organizers & Contributing Friends: Philip,  Mary|Christina|Tony| Scott| Open Global GeoHealth |
 
 |Your Project Here|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Amazing Khattar| Katya Cherukumilli |India, US|
 
