@@ -3,8 +3,7 @@
 |Project Name |Where we work: Slack, Github, Hydroshare |Cyberinfrastructure & Data Science Tools|Team |Team Lead  | Project Lead | Data Science Lead| Geoscience Domain |
 |:--------|:------|:--------|:--------|:---------|:--------|:------|:------|
 |Evolving Team Cooties: Infectiously Open, Wildly Transmissible, Hilariously Accessible|[#teamcooties](https://waterhackweek.slack.com/messages/CH9E4NTU4)   [whw2020_flattenthecurve](https://github.com/waterhackweek/whw2019_watermesh)   HydroShare Resource TBD  |Cloud Widgets in Jupyter, Visualization with Bokeh, Data Smashing (COVID-19, National Water Model), Statistics for Public Translation |WHW Organizers & Contributing Friends: Philip,  Mary|Christina|Tony| Scott| Open Global GeoHealth |
-
-|The Next Amazing Project|Where we work: #funSlack, hyperlinkGithub, Hydroshareresource |XSEDE, Pangeo, Scikitlearn, landlab, matplotlib, plotly, pandas, xarray, numpy, scipy, cartop ... Cyberinfrastructure & Data Science Tools|Enthusiast Team |Kind Team Lead  |Passionate Project Lead |Knowledgeable Data Science Lead| Exciting Geoscience Domain |
+|The Next Amazing Project|Where we work: #funSlack, hyperlinkGithub, Hydroshareresource |XSEDE, Pangeo, Scikitlearn, landlab, matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy ... Cyberinfrastructure & Data Science Tools|Enthusiast Team |Kind Team Lead  |Passionate Project Lead |Knowledgeable Data Science Lead| Exciting Geoscience Domain |
 
 # Projects
 This repository contains information on waterhackweek projects.  Please read more about [Project Guidelines](https://waterhackweek.github.io/wiki/project_guidelines.html) and [Project management](https://waterhackweek.github.io/wiki/github_project_management.html) on the Waterhackweek Wiki.  
@@ -66,13 +65,40 @@ We have the Instructor Bios and some sticky notes put up at one end of the room.
 
 By definition, anything could happen in a hackweek project! If you want it to happen faster, ask us for help. If you want help avoiding a downturn in productivity, teamwork, or creativity, we can help come up with ideas and solutions.
 
-* Jacob Deppen - support data scientists, project scientists, instructors and organizers. 
-* Madhavi Srinivasan- support participants, especially new code contributors on Github and Jupyter Notebooks
-* Nicoleta Cristea - support on tutorials and almost every other question
-* Christina Bandaragoda- celebrating surprises, wins and collecting data on what works; also, handles anything that is not working (questionable behavior, awkward situations, or code of conduct violations).
+* TBD - someone as big as Jacob Deppen - support data scientists, project scientists, instructors and organizers. 
+* TBD - someone as deep as Madhavi Srinivasan - support participants, especially new code contributors on Github and Jupyter Notebooks
+* Scott Black - support on HydroShare and almost every other question
+* Christina Bandaragoda- curious about anything that is not working, celebrating surprises by collecting data; handles anything that is not working (event design, questionable team behavior, awkward personal situations, or code of conduct violations).
 
 # Project guidelines
 Each project requires a brief project summary in the readme.md of each GitHub project folder. Below is a template for the project summary. You can visit the project folder on the geohack GitHub page to see existing examples.
+
+## Before the hackweek, the project lead initiates a new repository in their Github account.
+
+**Project Overview:**
+Why is this important? What is the potential here?
+
+**Shared Project Goals: [List the top three in terms of computer science and data science learning]**
+* Create innovative visualizations for new datasets
+* Implement common methods on emerging platforms 
+* Establish a new workflow for a new user or audience 
+
+**Individual Learning Opportunities**[Community Norms currently include Python 3+, HydroShare Data Repository, Github Code Repository]
+* Cloud computing with Jupyter Notebooks on CUAHSI HydroShare
++ List of Specific Software Libraries, Cyberinfrastructure Platforms, Datasets and Other Technologies
+
+All programming levels welcome. We'll be primarily using Python but other languages can be used too!
+
+**On-boarding Steps**:  All programming levels welcome. 
+Time Committment and Language Expectations. 
+A. We'll be primarily using Python but other languages can be used too!
+B. It will take 10 min to read the materials for experienced python programmers with Github and HydroShare accounts.  It will take 2-5 hours to onboard and get comfortable for those new coding or new users of these platforms. 
+ 
+**Organizational and Personal Disclosures, Disclaimers, and Expectations**
+
+**References and Links to Sources**
+
+## At the hackweek, the project lead will pitch their project, and work with the Team to fork their repository to the Waterhackweek organization, and build a team plan for governing collaboration for the week, including a detailed description of the Team Project. 
 
 ### Project Title
 Brief title describing the proposed work.
@@ -173,8 +199,9 @@ https://help.hydroshare.org/creating-and-managing-resources/connecting-your-reso
 
 [Best Practices for Designating Authorship](https://www.epa.gov/sites/production/files/2016-09/documents/best_practices_designating_authorship_printer_friendly_2016.pdf)
 
+# Access and Build on the Waterhackweek Project Archive 
 
-## Project Checkpoints
+## Project Checkpoints 2019
 
 |Project Name | Github Repo | slack channel | Hydroshare |
 |:--------|:------|:--------|:---------|
@@ -202,7 +229,7 @@ https://help.hydroshare.org/creating-and-managing-resources/connecting-your-reso
 |Meteorological forcing data for NWM/WRF-Hydro||Yu-Fen Huang|Yin-Phan Tsang|Hawaii|
 |How will climate change affect hydrologic extreme events in the Pacific Northwest |Xarray,pandas,cartopy,seaborn|Yifan Cheng|Oriana Chegwidden|Pacific Northwest|
 
-# GeoHackWeek Archives
+# Water related GeoHackWeek Archives 2018
 | Project Name | slack channel | Hydroshare |
 |:------|:--------|:---------|
 | [Freshwaterhack of geohackweek 2017: Haackwell](https://github.com/yeemey/haackwell)| |[Haackwell Groundwater Geohackweek Project 2017](https://www.hydroshare.org/resource/bf7b1abb7ec14599b644116d20efebd5/)  | 
