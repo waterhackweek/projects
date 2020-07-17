@@ -1,9 +1,10 @@
 ## Project Tools/Roles/Location   2020
 
-|Project Name |Github | Slack | Hydroshare |Data Science Tools|Data Science Lead|Project Lead|Geoscience Domain|
-|:--------|:------|:--------|:--------|:---------|
-|Evolving Team Cooties:Infectiously Open, Wildly Transmissible, Hilariously Accessible Information|[whw2020_flattenthecurve](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek.slack.com/messages/CH9E4NTU4) |Cloud Widgets in Jupyter, Visualization with Bokeh, Data Smashing (COVID-19, National Water Model), Statistics for Public Translation |Christina, Mary, Tony, Scott; Contributing Friends: Philip| Global Pandemic |
-|Your Project Here|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
+|Project Name |Github | Slack | Hydroshare |Data Science Tools|Data Science Lead|Project Lead|Geoscience Domain |
+|:--------|:------|:--------|:--------|:---------|:--------|:------|:------|
+|Evolving Team Cooties:Infectiously Open, Wildly Transmissible, Hilariously Accessible Information|[whw2020_flattenthecurve](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek.slack.com/messages/CH9E4NTU4) | HydroShare Resource  |Cloud Widgets in Jupyter, Visualization with Bokeh, Data Smashing (COVID-19, National Water Model), Statistics for Public Translation |Christina, Mary, Tony, Scott| Contributing Friends: Philip| Open Global Pandemic |
+
+|Your Project Here|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Amazing Khattar| Katya Cherukumilli |India, US|
 
 ## Project Checkpoints
 
