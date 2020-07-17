@@ -1,3 +1,17 @@
+## Project Tools/Roles/Location   2020
+
+|Project Name |Github | Slack | Hydroshare |Data Science Tools|Data Science Lead|Project Lead|Geoscience Domain|
+|:--------|:------|:--------|:--------|:---------|
+|Evolving Team Cooties:Infectiously Open, Wildly Transmissible, Hilariously Accessible Information|[whw2020_flattenthecurve](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek.slack.com/messages/CH9E4NTU4) |Cloud Widgets in Jupyter, Visualization with Bokeh, Data Smashing (COVID-19, National Water Model), Statistics for Public Translation |Christina, Mary, Tony, Scott; Contributing Friends: Philip| Global Pandemic |
+|Your Project Here|matplotlib, plotly, pandas, xarray, numpy, scipy, cartopy| Rohit Khattar| Katya Cherukumilli |India, US|
+
+## Project Checkpoints
+
+|Project Name | Github | Slack | Hydroshare |
+|:--------|:------|:--------|:---------|
+|Civil digital infrastructure for real-world health impacts made possible by information flow, data sharing, and data security that enables clean water for everyone.|[whw2019_watermesh](https://github.com/waterhackweek/whw2019_watermesh) | [#watermesh](https://waterhackweek2019.slack.com/messages/CH9E4NTU4) | [TBD] | 
+
+
 # Projects
 This repository contains information on waterhackweek projects.  Please read more about [Project Guidelines](https://waterhackweek.github.io/wiki/project_guidelines.html) and [Project management](https://waterhackweek.github.io/wiki/github_project_management.html) on the Waterhackweek Wiki.  
 
@@ -180,7 +194,7 @@ https://help.hydroshare.org/creating-and-managing-resources/connecting-your-reso
 |Meteorological forcing data for NWM/WRF-Hydro|[meteo_forcing_wrfhydro](https://github.com/waterhackweek/meteo_forcing_wrfhydro)|[#meteo_wrfhydro](https://waterhackweek2019.slack.com/messages/CH9CXURB6)| |
 |How will climate change affect hydrologic extreme events in the Pacific Northwest|[whw2019_extremeH2O](https://github.com/waterhackweek/whw2019_extremeH2O)|[#extremeh20](https://waterhackweek2019.slack.com/messages/CH9D4KYBE)| |
 
-## Project Tools/Roles/Location
+## Project Tools/Roles/Location   2019
 
 |Project Name |Data Science Tools|Data Science Lead|Project Lead|Location|
 |:--------|:------|:--------|:--------|:---------|
